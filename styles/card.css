@@ -22,3 +22,10 @@
     display: flex;
   }
   
+  .descrição__titulo-livro {
+    color: var(--azul-degrade);
+    font-size: 18px;
+    font-weight: 700;
+    margin: 0.5em 0;
+  }
+  
