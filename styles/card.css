@@ -13,3 +13,8 @@
     margin-bottom: 0.5em;
   }
   
+  .card__botões {
+    display: flex;
+    justify-content: space-between;
+  }
+  
